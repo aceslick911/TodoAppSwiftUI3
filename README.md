@@ -1,4 +1,11 @@
 # TodoAppSwiftUI3
+
+## Updates
+- Updated to XCode 13.9 Beta 5
+    - NewItem.swift - updated buttonStyle from BorderedButtonStyle to .bordered
+                    - Commented out unsupported shadow styles
+    - ToDoList.swift - Corrected .searchable() implementation
+
 A simple todo app which aims to demonstrate some new concepts from SwiftUI 3
 
 ![Frame 1-3](https://user-images.githubusercontent.com/65537510/125519661-d587b7fc-b777-4ba3-b4f8-6b44a690834a.png)
